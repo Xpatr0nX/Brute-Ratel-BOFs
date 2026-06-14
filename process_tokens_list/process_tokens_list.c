@@ -5,6 +5,7 @@
 
 /* =========================================================================
  * ported by Xpatr0nX
+ * original source: https://github.com/atomiczsec/Adrenaline/tree/main/credential_access/process_tokens_list
  * ========================================================================= */
 
 DECLSPEC_IMPORT void BadgerDispatch(WCHAR **dispatch, const char *fmt, ...);
