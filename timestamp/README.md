@@ -6,5 +6,9 @@ Timestamp in `"YYYY-MM-DD HH:MM:SS"` format (UTC)
 
 ## Usage
 ```bash
+coffexec timestamp.o <file_path> "YYYY-MM-DD HH:MM:SS
+```
+## Example
+```bash
 coffexec out64/timestamp64.o C:\Users\admin\Downloads\payload.exe "2021-09-02 16:05:01"
 ```
